@@ -1,6 +1,6 @@
 <!-- Add an eye-catching project banner or logo here -->
 
-# Cancer Predictor Dashboard
+# Breast Cancer Prediction App: 👩‍⚕️🔬 Building A Machine Learning Classification Visualizer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0.89-brightgreen)
