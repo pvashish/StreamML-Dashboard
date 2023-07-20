@@ -7,7 +7,7 @@
 
 Welcome to the Cancer Predictor Dashboard! 🚀
 
-![Screenshot](./docs/screenshot.png)
+![Screenshot](https://github.com/pvashish/StreamML-Dashboard)
 
 ## Overview
 
@@ -20,9 +20,6 @@ The Cancer Predictor Dashboard is an interactive web application that utilizes m
 - **User-friendly Interface**: Enjoy an intuitive and easy-to-navigate UI, no prior coding experience required.
 - **Model Customization**: Fine-tune machine-learning models effortlessly for improved predictions.
 
-## Preview
-
-![Preview](./docs/preview.gif)
 
 ## Getting Started
 
@@ -30,23 +27,9 @@ Experience the Cancer Predictor Dashboard right now! Access it via the link belo
 
 👉 [Cancer Predictor Dashboard](https://cancer-predictor-dashboard-by-pranavi.streamlit.app/)
 
-## Screenshots
-
-![Screenshot 1](./docs/screenshot1.png)
-![Screenshot 2](./docs/screenshot2.png)
 
 ## Built With
 
 - Python 3.8+
 - Streamlit 0.89
 - Pandas, NumPy, Scikit-learn
-
-## Local Setup
-
-To run the Cancer Predictor Dashboard on your local machine, follow these simple steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/cancer-predictor-dashboard.git
-cd cancer-predictor-dashboard
