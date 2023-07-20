@@ -7,7 +7,7 @@
 
 Welcome to the Cancer Predictor Dashboard! 🚀
 
-![Screenshot](https://github.com/pvashish/StreamML-Dashboard)
+![Breast Cancer Prediction App](https://github.com/pvashish/StreamML-Dashboard/blob/main/cancer.PNG)
 
 ## Overview
 
