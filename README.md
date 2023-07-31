@@ -10,6 +10,7 @@ Welcome to the Cancer Predictor Dashboard! 🚀
 ![Breast Cancer Prediction App](https://github.com/pvashish/StreamML-Dashboard/blob/main/cancer.PNG)
 
 ## Overview
+![Flowchart](https://github.com/pvashish/StreamML-Dashboard/blob/main/Flowchart.png)
 
 The Cancer Predictor Dashboard is an interactive web application that utilizes machine learning to predict whether a cell cluster is benign or malignant. Powered by Python and Streamlit, this project provides a user-friendly platform to explore predictive models for cancer diagnosis without the need for complex code.
 
